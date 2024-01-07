@@ -1,4 +1,4 @@
-Web developer -> ( HTML, CSS, JS, FLASK )
+Fullstack guy, I mainly do AI stuff though.
 
 
 <!---
